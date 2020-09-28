@@ -7,4 +7,4 @@ The repository consist 4 files: <br/>
 **sample_submission.csv** This is the sample submission format of Kaggle competition. <br/>
 **USE_disaster_project.ipynb** This is the notebook file of project.  <br/>
 
-I use SparkNLP package on this project. And I implemented Universal Sentence Encoder as pre-processing step. 
+I use SparkNLP package on this project. And I implemented Universal Sentence Encoder as pre-processing step.
